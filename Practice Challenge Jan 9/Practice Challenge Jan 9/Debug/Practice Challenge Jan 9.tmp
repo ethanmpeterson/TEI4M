@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\Debug\Practice Challenge Jan 9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practice Challenge Jan 9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practice Challenge Jan 9.map</FILE>
+  <FILE>Practice Challenge Jan 9.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>16</LINE></start>
+  <decideStep><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>25</LINE></decideStep>
+  <checkOnes><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>27</LINE></checkOnes>
+  <addThreeOnes><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>50</LINE></addThreeOnes>
+  <checkTens><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>32</LINE></checkTens>
+  <addThreeTens><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>54</LINE></addThreeTens>
+  <checkHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>37</LINE></checkHundreds>
+  <addThreeHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>60</LINE></addThreeHundreds>
+  <shift><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>41</LINE></shift>
+  <display><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>64</LINE></display>
+  <delay><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>94</LINE></delay>
+  <L1><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>97</LINE></L1>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Practice Challenge Jan 9\Practice Challenge Jan 9\main.asm</FILE><LINE>102</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>

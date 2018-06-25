@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\Debug\SpennyTest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SpennyTest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SpennyTest.map</FILE>
+  <FILE>SpennyTest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>11</LINE></reset>
+  <table><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>9</LINE></table>
+  <loadValue><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>23</LINE></loadValue>
+  <repeat><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>32</LINE></repeat>
+  <pov><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>46</LINE></pov>
+  <convert><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>38</LINE></convert>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>62</LINE></wait>
+  <L1><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\SpennyTest\SpennyTest\main.asm</FILE><LINE>65</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\prescalers.h</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\Debug\Flex Page ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Flex Page ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Flex Page ASM.map</FILE>
+  <FILE>Flex Page ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>34</LINE></reset>
+  <TIM0_OVF><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>247</LINE></TIM0_OVF>
+  <ADC_Complete><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>255</LINE></ADC_Complete>
+  <initPins><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>153</LINE></initPins>
+  <ADCInit><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>223</LINE></ADCInit>
+  <T0Init><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>238</LINE></T0Init>
+  <initMSG><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>277</LINE></initMSG>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>149</LINE></wait>
+  <showBand><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>162</LINE></showBand>
+  <rows_5><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>185</LINE></rows_5>
+  <rows_4><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>193</LINE></rows_4>
+  <rows_3><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>200</LINE></rows_3>
+  <rows_2><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>206</LINE></rows_2>
+  <rows_1><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>211</LINE></rows_1>
+  <rows_0><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>215</LINE></rows_0>
+  <end><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>218</LINE></end>
+  <dummy><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>232</LINE></dummy>
+  <delay><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>282</LINE></delay>
+  <clear><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>270</LINE></clear>
+  <L1><FILE>C:\Users\Ethan Peterson\Desktop\Flex Page ASM\Flex Page ASM\main.asm</FILE><LINE>284</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

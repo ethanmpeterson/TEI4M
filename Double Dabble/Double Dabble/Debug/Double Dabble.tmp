@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\Debug\Double Dabble.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Double Dabble.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Double Dabble.map</FILE>
+  <FILE>Double Dabble.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>15</LINE></start>
+  <decideStep><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>25</LINE></decideStep>
+  <checkOnes><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>30</LINE></checkOnes>
+  <addThreeOnes><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>66</LINE></addThreeOnes>
+  <checkTens><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>33</LINE></checkTens>
+  <addThreeTens><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>70</LINE></addThreeTens>
+  <checkHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>36</LINE></checkHundreds>
+  <addThreeHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>74</LINE></addThreeHundreds>
+  <shifting><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>39</LINE></shifting>
+  <originalToOnes><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>62</LINE></originalToOnes>
+  <completionCheck><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>54</LINE></completionCheck>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Double Dabble\Double Dabble\main.asm</FILE><LINE>78</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>

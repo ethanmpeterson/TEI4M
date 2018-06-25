@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\Debug\GrayCodeImproved.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>GrayCodeImproved.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>GrayCodeImproved.map</FILE>
+  <FILE>GrayCodeImproved.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>20</LINE></reset>
+  <startTable><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>14</LINE></startTable>
+  <endTable><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>18</LINE></endTable>
+  <start><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>42</LINE></start>
+  <display><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>111</LINE></display>
+  <getInput><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>56</LINE></getInput>
+  <decideStep><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>72</LINE></decideStep>
+  <checkOnes><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>74</LINE></checkOnes>
+  <addThreeOnes><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>97</LINE></addThreeOnes>
+  <checkTens><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>79</LINE></checkTens>
+  <addThreeTens><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>101</LINE></addThreeTens>
+  <checkHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>84</LINE></checkHundreds>
+  <addThreeHundreds><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>107</LINE></addThreeHundreds>
+  <shift><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>88</LINE></shift>
+  <retPoint><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>147</LINE></retPoint>
+  <delay><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>151</LINE></delay>
+  <startPoint><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>139</LINE></startPoint>
+  <L1><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>154</LINE></L1>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Jan 13 Practice Challenges\GrayCodeImproved\GrayCodeImproved\main.asm</FILE><LINE>159</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>

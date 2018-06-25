@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\prescalers.h</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\Release\Fan Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Fan Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Fan Project.map</FILE>
+  <FILE>Fan Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RPMStart><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>26</LINE></RPMStart>
+  <RPMEnd><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>28</LINE></RPMEnd>
+  <reset><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>49</LINE></reset>
+  <TIM0_OVF><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>159</LINE></TIM0_OVF>
+  <ADC_Complete><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>165</LINE></ADC_Complete>
+  <TIM1_CAPT><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>172</LINE></TIM1_CAPT>
+  <TIM1_OVF><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>176</LINE></TIM1_OVF>
+  <Greeting><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>42</LINE></Greeting>
+  <EndGreeting><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>44</LINE></EndGreeting>
+  <RPMInit><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>119</LINE></RPMInit>
+  <PWMInit><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>127</LINE></PWMInit>
+  <ADCInit><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>103</LINE></ADCInit>
+  <T0Init><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>150</LINE></T0Init>
+  <T1Init><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>140</LINE></T1Init>
+  <UARTInit><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>66</LINE></UARTInit>
+  <display><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>77</LINE></display>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>63</LINE></wait>
+  <nextChar><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>84</LINE></nextChar>
+  <transmit><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>94</LINE></transmit>
+  <cya><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>91</LINE></cya>
+  <dummy><FILE>C:\Users\Ethan Peterson\Desktop\Fan Project\Fan Project\main.asm</FILE><LINE>113</LINE></dummy>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny85"</DEVICE>
+ <WORKING_DIR>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc\tn85def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\Debug\mod 8 = 6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>mod 8 = 6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>mod 8 = 6.map</FILE>
+  <FILE>mod 8 = 6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</FILE><LINE>7</LINE></start>
+  <isValue><FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</FILE><LINE>21</LINE></isValue>
+  <red><FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</FILE><LINE>29</LINE></red>
+  <wait><FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</FILE><LINE>34</LINE></wait>
+  <green><FILE>C:\Users\Ethan Peterson\Desktop\mod 8 = 6\mod 8 = 6\main.asm</FILE><LINE>25</LINE></green>
+ </LABELS>
+</ASSEMBLER_INFO>
